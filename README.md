@@ -1,4 +1,4 @@
 # Kyverno Artwork
 
-This repository contains logos and banners for Kyverno
+**mantained at: https://github.com/cncf/artwork/tree/master/projects/kyverno**
 
